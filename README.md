@@ -11,4 +11,4 @@ Clear user input fields
 Display confirmation of borrow/return actions
 Technologies Used: Python, Tkinter
 
-Feel free to use or modify the code as needed!
+
